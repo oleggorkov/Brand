@@ -1,0 +1,20 @@
+{
+  "maxID": 3,
+  "comments": [
+    {
+      "author": "Oleg",
+      "text": "Привет!!",
+      "id": 1
+    },
+    {
+      "author": "Polina",
+      "text": "Привет!!",
+      "id": 2
+    },
+    {
+      "author": "Arsy",
+      "text": "Привет!!",
+      "id": 3
+    }
+  ]
+}

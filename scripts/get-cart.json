@@ -1,0 +1,277 @@
+{
+  "cartProducts": [
+    {
+      "id": 1,
+      "img": "img/foto-shop-1.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 150,
+      "quantity": 2,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 2,
+      "img": "img/foto-shop-2.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 150,
+      "quantity": 2,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 3,
+      "img": "img/foto-shop-3.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 150,
+      "quantity": 2,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 4,
+      "img": "img/foto-9.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 5,
+      "img": "img/foto-10.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 6,
+      "img": "img/foto-3.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 7,
+      "img": "img/foto-13.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 8,
+      "img": "img/foto-8.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 9,
+      "img": "img/foto-15.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 10,
+      "img": "img/foto-6.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 11,
+      "img": "img/foto-14.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 12,
+      "img": "img/foto-16.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    }
+  ],
+
+  "pageProducts": [
+    {
+      "id": 13,
+      "img": "img/foto-20.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 14,
+      "img": "img/foto-21.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 15,
+      "img": "img/foto-22.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 16,
+      "img": "img/foto-23.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    }
+  ],
+
+  "indexProducts": [
+    {
+      "id": 17,
+      "img": "img/foto-1.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 18,
+      "img": "img/foto-2.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 19,
+      "img": "img/foto-3.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 20,
+      "img": "img/foto-4.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 21,
+      "img": "img/foto-5.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 22,
+      "img": "img/foto-6.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 23,
+      "img": "img/foto-7.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    },
+    {
+      "id": 24,
+      "img": "img/foto-8.jpg",
+      "name": "Mango People T-shirt",
+      "color": "red",
+      "size": "XII",
+      "price": 52,
+      "quantity": 1,
+      "shipping": "FREE",
+      "link": "single-page.html"
+    }
+  ]
+}
